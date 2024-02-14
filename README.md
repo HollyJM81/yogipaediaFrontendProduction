@@ -1,5 +1,8 @@
 # Yogipedia - A Yoga App - Frontend Repository
 
+Available to view at [https://yogipaediapp.onrender.com/](https://yogipaediapp.onrender.com/).
+Completed as our final group project for Command Shift Bootcamp, March '23 cohort.
+
 ## Engineers
 
 - Cristina Soare - Frontend/Components Manager
